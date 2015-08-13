@@ -4,14 +4,14 @@
     <id>Ophlan.Analyzers</id>
     <version>1.0.0.0</version>
     <title>Ophlan.Analyzers</title>
-    <authors>Phil</authors>
-    <owners>Phil</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <authors>Phil Bailey</authors>
+    <owners>Phil Bailey</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
     <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Ophlan.Analyzers</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Initial checkin of the Organize Members Analyzer/CodeFix</releaseNotes>
     <copyright>Copyright</copyright>
     <tags>Ophlan.Analyzers, analyzers</tags>
   </metadata>
